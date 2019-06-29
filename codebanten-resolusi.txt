@@ -1,0 +1,4 @@
+Daftar Resoulis Codebanten :
+ - Konsisten membuat konten
+ - Belajar tentang codeigniter
+ - Merancang Database
